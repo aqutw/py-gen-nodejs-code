@@ -1,0 +1,4 @@
+HTTP_METHOD URL CONTROLLER_FILE.EXPORT_FUNCTION_NAME
+post /signup user.signup
+get /about page.about
+get /terms-of-use page.termOfUse
