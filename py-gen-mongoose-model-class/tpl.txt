@@ -1,0 +1,13 @@
+const mongoose = require('mongoose');
+const Schema = mongoose.Schema;
+
+// Define model
+const [model]Schema = new Schema({
+[fields]});
+
+// Create the model class
+const ModelClass = mongoose.model('[model]', [model]Schema);
+
+// Export the model
+module.exports = ModelClass;
+    
